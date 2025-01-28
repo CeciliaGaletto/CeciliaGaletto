@@ -4,7 +4,8 @@
 </h1>
 </div>
 
-<ing scr= [https://img.freepik.com/premium-photo/computer-monitor-with-forex-graph-screen_225446-13839.jpg](https://www.datameer.com/wp-content/uploads/2021/09/Featured_Image-924x512.png)
+<ing scr= ![Inteligencia-al](https://github.com/user-attachments/assets/056377fe-8ac9-466e-bb7d-604ab1ae63ad)
+
 >
 
 ## Sobre mi:
