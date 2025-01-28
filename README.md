@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Cecilia, and I am currently in a continuous learning process of data analysis and data science 👋
 
 <!--
 **CeciliaGaletto/CeciliaGaletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
