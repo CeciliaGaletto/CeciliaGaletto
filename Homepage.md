@@ -3,7 +3,7 @@
  Hello! I'm Cecilia, and I am currently in a continuous learning process of data analysis and data science 👋
 </h1>
 </div>
->
+<space></space>
 
 ![Inteligencia-al](https://github.com/user-attachments/assets/056377fe-8ac9-466e-bb7d-604ab1ae63ad)
  >
