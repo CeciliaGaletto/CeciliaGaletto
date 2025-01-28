@@ -4,7 +4,7 @@
 </h1>
 </div>
 
-<ing scr=![image](https://github.com/user-attachments/assets/df5f3aa5-dd6c-4087-876b-b0ba1c7d5802)
+<ing scr=[image](https://github.com/user-attachments/assets/df5f3aa5-dd6c-4087-876b-b0ba1c7d5802)
 >
 
 ## Sobre mi:
