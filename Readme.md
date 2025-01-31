@@ -6,7 +6,8 @@
 </div>
 
 
-![Inteligencia-al](https://github.com/user-attachments/assets/056377fe-8ac9-466e-bb7d-604ab1ae63ad)
+!![Inteligencia-al2](https://github.com/user-attachments/assets/5ce9de6b-8e89-4081-b030-c164fde048ac)
+
  >
 
 ## ABOUT ME:
