@@ -1,10 +1,5 @@
 
 
-<div align= "center" >
- Hello! I'm Cecilia👋
-</h1>
-</div>
-
 
 ![Inteligencia-al2](https://github.com/user-attachments/assets/5ce9de6b-8e89-4081-b030-c164fde048ac)
 
